@@ -1,0 +1,19 @@
+{
+    "name": "mhdel/csstec",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mhdel\\Csstec\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohamad elhaf",
+            "email": "mhd_elhaf659@outlook.com"
+        }
+    ],
+    "require-dev": {
+        "phpstan/phpstan": "^1.10"
+    }
+}
